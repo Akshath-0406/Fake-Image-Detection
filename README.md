@@ -15,4 +15,8 @@ The CNN model has 4 layers that is then connected to an ANN that has 2 layers to
 The CNN model consists of 1 Rescaling Layer, 1 Convolutional layer, 1 Max Pooling Layer and 1 Flatten layer.  
 The ANN model consists of 1 dense layer and 1 output sigmoid dense layer.  
 The model is compiled using Adam Optimizer and Binary Cross-entropy loss. The model is then trained on the loaded dataset.  
-The model has a validation accuracy of 93% at the end of 5 epochs.
+The model has a validation accuracy of 93% at the end of 5 epochs.  
+
+![image](https://github.com/Akshath-0406/Fake-Image-Detection/assets/96140050/66a9754b-cf8b-448a-a05e-89f55c20eed5)  
+
+![image](https://github.com/Akshath-0406/Fake-Image-Detection/assets/96140050/560265cf-2703-4b40-8aa8-d9a359a5deb3)
